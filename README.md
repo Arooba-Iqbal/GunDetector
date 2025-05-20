@@ -85,6 +85,6 @@ A GUI window will open showing the webcam feed. If a gun is detected with over 5
 
 ### 🙋‍♂️ Author
 
-**Muhammad Waleed** – Computer Science Student at FAST-NUCES   
-📫 [LinkedIn](https://www.linkedin.com/in/muhammad-waleed--/)
-[Kaggle Notebook](https://www.kaggle.com/code/muhammadwaleed6824/ai-project)
+**Arooba Iqbal ** – Computer Science Student at FAST-NUCES
+**Muhammad Waleed** – Computer Science Student at FAST-NUCES
+
